@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saurav Gupta
-- 👀 I’m interested in Flutter development , fronted & DSA
-- 🌱 I’m currently learning Flutter & DSA
+- 👀 I’m interested in Flutter development , Backend & DSA
+- 🌱 I’m currently learning Flutter , DSA as well as backend
 - 💞️ I’m looking to collaborate on Youtube.
 - 👌 Ask me about Flutter related contents
 - 📫 How to reach me 
