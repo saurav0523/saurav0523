@@ -15,17 +15,6 @@
 <img src="https://profile-counter.glitch.me/saurav0523/count.svg" />
 </p>
 
-
-
-
-
-
-
-- 👋 Hi, I’m Saurav Gupta
-- 👀 I’m interested in Flutter development , Backend & DSA
-- 🌱 I’m currently learning Flutter , DSA as well as backend
-- 💞️ I’m looking to collaborate on Youtube.
-- 👌 Ask me about Flutter related contents
 - 📫 How to reach me 
 -      Instagram -- Mr.saurav_0523
 -      Twitter   -- @gsaurav641
