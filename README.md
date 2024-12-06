@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines= Namaste +🙏🏻+,+I'm+Saurav+Gupta!;Full-Stack%20Dev%20and%20Blockchain%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a> </h1>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <br>
-<p><em>Striving to become a good Blockchain Engineer &nbsp<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Aiming to become a greatest software Engineer of all time &nbsp<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <br>
